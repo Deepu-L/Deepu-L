@@ -41,10 +41,17 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepu-L&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-L&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Interactive Activity Graph (Highly Reliable) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-L&theme=react-dark" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepu-L&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak (Already working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepu-L&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
