@@ -66,16 +66,14 @@ I'm currently focused on strengthening my fundamentals and gradually building pr
 
 <p align="center">
   <a href="mailto:deepul1320@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
          width="42"
          height="42"
          alt="Email" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/deepul24/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    <img src="https://img.icons8.com/color/48/linkedin.png"
          width="42"
          height="42"
          alt="LinkedIn" />
