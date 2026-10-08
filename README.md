@@ -64,21 +64,23 @@ I'm currently focused on strengthening my fundamentals and gradually building pr
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
+  <a href="mailto:deepul1320@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         width="42"
+         height="42"
+         alt="Email" />
+  </a>
 
-<a href="mailto:deepul1320@gmail.com">
-  <img src="https://img.shields.io/badge/Email-deepul1320%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;
-
-<a href="https://www.linkedin.com/in/deepul24/">
-  <img src="https://img.shields.io/badge/LinkedIn-Deepu%20L-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/deepul24/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="42"
+         height="42"
+         alt="LinkedIn" />
+  </a>
 </p>
-
----
 
 <p align="center">
   <i>Learning today. Building tomorrow.</i>
